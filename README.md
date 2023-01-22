@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+•In this project, you need to install firebase.
+[You can get help while installing by watching the video on this link](https://www.youtube.com/watch?v=n3R4f0Kpw0o)
