@@ -19,6 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 [You can get help while installing by watching the video on this link](https://www.youtube.com/watch?v=n3R4f0Kpw0o)
 
-[App Review Video](https://drive.google.com/file/d/1WIsSa3aGeJNyhxu65diXYnUGj4mAcY_P/view?usp=share_link)
+[App Review Video and Project Report](https://drive.google.com/drive/folders/15_Xm5wkJsTBGG6BNktDXU_tBnLhDo9C6)
 
-[Project Report](https://docs.google.com/document/d/1TERtuAFHgkATUgua609u3YF_O-b5amMF/edit?usp=share_link&ouid=109395841871922456742&rtpof=true&sd=true)
+
