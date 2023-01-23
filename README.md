@@ -18,3 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 •In this project, you need to install firebase.
 
 [You can get help while installing by watching the video on this link](https://www.youtube.com/watch?v=n3R4f0Kpw0o)
+
+[App Review Video](https://drive.google.com/file/d/13TqUcoX-ZzEA5T6joSSFg4WoqfNUyeoB/view?usp=share_link)
+
+[Project Report](https://drive.google.com/file/d/15EfJ8LkeY-pCLVXrRNv4oxiZ5WJ9zkr4/view?usp=share_link)
